@@ -1,0 +1,9 @@
+﻿  Main.cpp
+c:\users\id student\desktop\william h\dnd\dnd\main.cpp(313): warning C4533: initialization of 'dice' is skipped by 'goto adventure'
+  c:\users\id student\desktop\william h\dnd\dnd\main.cpp(265): note: see declaration of 'dice'
+  c:\users\id student\desktop\william h\dnd\dnd\main.cpp(313): note: see declaration of 'adventure'
+c:\users\id student\desktop\william h\dnd\dnd\main.cpp(346): warning C4533: initialization of 'dice' is skipped by 'goto Hardun'
+  c:\users\id student\desktop\william h\dnd\dnd\main.cpp(265): note: see declaration of 'dice'
+  c:\users\id student\desktop\william h\dnd\dnd\main.cpp(346): note: see declaration of 'Hardun'
+  DnD.vcxproj -> C:\Users\iD Student\Desktop\William H\DnD\Debug\DnD.exe
+  DnD.vcxproj -> C:\Users\iD Student\Desktop\William H\DnD\Debug\DnD.pdb (Full PDB)
